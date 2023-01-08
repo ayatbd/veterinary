@@ -1,0 +1,659 @@
+/* tablet responsiv */
+@media screen and (max-width:991px) {
+
+    /* common */
+    
+     p{
+        font-size: 25px;
+     }
+
+     .mobile-menu span{
+      display: block;
+    }
+    
+##########################
+        .header-img {
+        margin-top: 165px;
+      }
+
+      .header-bottom-left {
+        overflow: hidden;
+        margin-top: 120px;
+      }
+
+      .header-img {
+        margin-top: 70px;
+      }
+      .header-bottom-left h1 {
+        font-size: 56px;
+        margin-bottom: 0;
+        line-height: 1;
+      }
+      .service-left {
+        padding: 90px 78px 100px 0;
+      }
+      .video {
+        max-width: 100%;
+        float: right;
+        position: relative;
+        max-height: unset;
+      }
+      .service-left h2 {
+        color: black;
+        font-size: 38px;
+        margin-bottom: 24px;
+        margin-top: 75px;
+      }
+      .service-right {
+        margin-top: 85px;
+      }
+      .inner-service {
+        margin-bottom: 0;
+      }
+      #service-section {
+        padding-bottom: 60px;
+      }
+      .portfolio-caption h1 {
+        font-size: 60px;
+      }
+      .portfolio-child {
+        margin-top: 45px;
+      }
+      .portfolio-child h2 {
+        margin-top: 32px;
+        font-size: 35px;
+        margin-bottom: 10px;
+      }
+      #portfolio-section {
+        padding: 70px 0;
+      }
+      #our-sercice {
+        padding: 100px 0;
+      }
+      .right-content h2 {
+        margin-top: 75px;
+      }
+      #buy-section {
+        padding: 70px 0;
+      }
+      .buy-portfolio {
+        margin-top: 45px;
+      }
+
+      #doctor-section {
+        padding: 70px 0;
+      }
+      .single-doctor {
+        margin-top: 40px;
+      }
+      .sell-rate span h1 {
+        font-size: 36px;
+        color: white;
+      }
+      .doctor-tex {
+        padding: 0px 156px;
+      }
+      #doctor-section {
+        padding: 60px 0;
+      }
+      .single-doctor h3 {
+        margin-top: 30px;
+        font-size: 24px;
+      }
+      .single-doctor h5 {
+        margin-bottom: 15px;
+        font-size: 18px;
+      }
+      #count-section {
+        padding: 100px 0;
+      }
+      .single-count h2 {
+        font-size: 30px;
+        color: white;
+      }
+      #post-section {
+        padding: 80px 0;
+
+      }
+      .single-wrapper {
+        margin-top: 50px;
+      }
+      .post-info h3 {
+        font-size: 20px;
+        padding: 30px 0 0 0;
+      }
+      .body-text {
+        font-size: 17px !important;
+        margin-top: 15px;
+        padding-right: 0;
+      }
+      .post-info a {
+        font-size: 16px;
+      }
+      #footer-section {
+        width: 100%;
+        clear: both;
+        padding: 100px 0;
+        background: #343434;
+        color: white;
+      }
+
+
+
+      @media screen and (max-width:978px) {
+
+        p{font-size: 22px !important;}
+
+        .header-bottom-left h1 {
+          font-size: 45px;
+        }
+        .header-bottom-left p {
+          margin-top: 26px;
+          margin-bottom: 40px;
+        }
+        .header-bottom-left .btn.btn-info {
+          padding: 8px 18px;
+        }
+        .second-btn {
+          color: white;
+          padding: 7px 18px;
+          border: 2px solid;
+          margin-left: 20px;
+        }
+        .service-left h2 {
+          color: black;
+          font-size: 32px;
+          margin-bottom: 24px;
+          margin-top: 40px;
+        }
+        .service-left p {
+          color: black;
+          margin-bottom: 37px;
+        }
+        .btn.btn-warning {
+          padding: 8px 18px;
+        }
+        .overlay-img img {
+          width: 100%;
+          height: auto;
+          float: right;
+        }
+        .hidden-item {
+        }
+        #service-section {
+          padding-bottom: 40px;
+        }
+        .portfolio-caption h1 {
+          font-size: 52px;
+        }
+        .p-text {
+          color: #fff;
+          padding: 0 144px;
+        }
+        .portfolio-child h2 {
+          margin-top: 32px;
+          font-size: 32px;
+          margin-bottom: 10px;
+        }
+        .portfolio-child p {
+          font-size: 20px !important;
+          padding: 0;
+          color: white;
+        }
+        #our-sercice {
+          padding: 80px 0;
+        }
+        .video {
+          max-width: 90%;
+          float: left;
+          position: relative;
+          max-height: unset;
+        }
+        .right-content h2 {
+          margin-top: 60px;
+        }
+        .right-content h2 {
+          margin-top: 55px;
+          font-size: 32px;
+          margin-bottom: 30px;
+        }
+        .right-content {
+          text-align: end;
+          padding-left: 33px;
+        }
+        #buy-section {
+          padding: 60px 0;
+        }
+        .sell-rate h1 {
+          font-size: 30px;
+        }
+        .portfolio-single .btn {
+          padding: 6px 26px;
+          margin-top: 8px;
+        }
+        #doctor-section .fw-bolder.text-black.doctor-caption {
+          font-size: 52px;
+        }
+        .single-doctor h3 {
+          margin-top: 30px;
+          font-size: 22px;
+        }
+        .single-doctor h5 {
+          margin-bottom: 15px;
+          font-size: 17px;
+        }
+        #count-section {
+          padding: 80px 0;
+        }
+        .social-icons i {
+          width: 31px;
+          height: 31px;
+          padding-top: 4.4px;
+          margin-right: 8px;
+        }
+        .social-icons ul {
+          padding: 0 56px;
+        }
+        .single-count h2 {
+          font-size: 28px;
+        }
+        .single-wrapper {
+          margin-top: 35px;
+        }
+        .post-info h3 {
+          font-size: 18px;
+          padding: 26px 0 0 0;
+        }
+        .post-subtitle {
+          font-size: 15px;
+          color: #00bec9;
+          display: block;
+        }
+        .body-text {
+          font-size: 15px !important;
+          margin-top: 5px;
+          padding-right: 0;
+        }
+        .post-info a {
+          font-size: 15px;
+          margin-bottom: 0;
+        }
+        #footer-section {
+          padding: 65px 0;
+        }
+        .single-footer h3 {
+          margin-bottom: 14px;
+          font-size: 24px;
+        }
+        ul li span {
+          font-size: 18px;
+          line-height: 1.5;
+        }
+        .text-footer {
+          margin-bottom: 18px;
+        }
+        .input-form.form-control.me-2 {
+          margin: 0;
+          padding: 5px 0 5px 7px;
+        }
+        .btn.btn-primary.mb-3 {
+          padding: 0 20px;
+        }
+        .pt-5 {
+          padding-top: 1.5rem !important;
+        }
+
+      }
+      
+/* Other
+--------------------------------------------------------------------------------------------------------------- */
+@media screen and (max-width:650px) {
+  p{
+    font-size: 18px !important;
+  }
+  button{
+    padding: 7px 12px;
+    font-size: 16px;
+  }
+
+  .overlay-content .nav-link {
+    color: white;
+    font-size: 22px;
+  }
+
+  .header-bottom-left {
+    overflow: hidden;
+    margin-top: 35px;
+    width: 100%;
+    text-align: center;
+    padding: 0 60px;
+  }
+  .header-bottom-right {
+    width: 100%;
+  }
+  .d-flex {
+    display: block !important;
+    text-align: center;
+  }
+  
+  .header-bottom-left h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+  .header-img {
+    margin-top: 70px;
+    width: 80%;
+  }
+  #bottom-header {
+    padding-bottom: 0px;
+  }
+  .service-left {
+    padding: 0;
+    text-align: center;
+    width: 100% !important;
+  }
+  .service-left p {
+    color: black;
+    margin-bottom: 37px;
+    padding: 0 85px;
+  }
+  .service-right {
+    margin-top: 70px;
+    width: 100% !important;
+  }
+  .service-right {
+    width: 100% !important;
+    padding-bottom: 0;
+    display: block;
+    padding: 0 113px;
+  }
+  .video {
+    max-width: 100%;
+    float: left;
+    position: relative;
+    max-height: unset;
+  }
+  .hidden-item {
+    transform: translate(-30px, 30px);
+  }
+  .p-text {
+    color: #fff;
+    padding: 0 109px;
+  }
+  .portfolio-child {
+    width: 100%;
+    margin-top: 45px;
+  }
+  .portfolio-child img {
+    width: 65%;
+  }
+  .portfolio-child p {
+    padding: 0 88px;
+  }
+  .left-content {
+    width: 100% !important;
+  }
+  .inner-service {
+    width: 100%;
+    clear: both;
+    display: block;
+  }
+  .right-content {
+    text-align: center;
+    padding-left: 0;
+    width: 100% !important;
+    padding-top: 0;
+  }
+  .right-content p {
+    color: black;
+    margin-bottom: 45px;
+    padding: 0 60px;
+  }
+  .left-content {
+    width: 100% !important;
+    padding: 0 110px;
+  }
+  .video {
+    margin-bottom: 60px;
+  }
+  .overlay-img img {
+    width: 100%;
+    height: auto;
+    float: none;
+  }
+  .service-right {
+    width: 100% !important;
+    display: grid;
+    overflow: hidden;
+    padding: 0;
+    padding: 10%;
+  }
+  .left-content {
+    width: 100% !important;
+    display: grid;
+    overflow: hidden;
+    padding: 0;
+    padding: 10%;
+  }
+  .sell-rate.text-center.d-flex {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+  }
+  .sell-rate .rate-header {
+    margin-left: 0;
+  }
+  .portfolio-single .btn {
+    margin-bottom: 60px;
+  }
+  .sell-rate h1 {
+    font-size: 24px;
+  }
+  .sell-text {
+    color: white;
+    margin-left: 30px;
+    font-size: 24px;
+  }
+  .sell-rate.text-center.d-flex {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .sell-rate .rate-header::before {
+    content: "";
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    background: white;
+    width: 65px;
+    height: 3px;
+    transform: translate(-50%, -50%);
+  }
+  .sell-text {
+    color: white;
+    margin-left: 25px;
+    font-size: 24px;
+  }
+  .single-doctor {
+    margin-top: 70px;
+    width: 100%;
+  }
+  .single-doctor h3 {
+    margin-top: 30px;
+    font-size: 20px;
+  }
+  .single-doctor h5 {
+    font-size: 16px;
+  }
+  .single-count img {
+    margin-bottom: 25px;
+  }
+  .single-count h2 {
+    font-size: 25px;
+  }
+  .fw-bolder.h-text {
+    margin-top: 10px;
+  }
+  .single-count img {
+    margin: 25px 0;
+  }
+  .single-wrapper {
+    margin-top: 40px;
+    width: 100%;
+  }
+  .body-text {
+    padding: 0 80px;
+    margin-bottom: 0;
+  }
+  .post-info {
+    padding: 0 25px;
+    border: none;
+  }
+  .single-footer {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  .input-form.form-control.me-2 {
+    width: 80%;
+  }
+  .form-input {
+    display: flex !important;
+  }
+  .btn-bottom {
+    width: 30%;
+  }
+  .form-input {
+    display: flex !important;
+    padding: 0 30%;
+  }
+  #footer-section {
+    padding-bottom: 0;
+  }
+}
+/* Other
+--------------------------------------------------------------------------------------------------------------- */
+@media screen and (max-width:480px) {
+  p{
+    font-size: 16px !important;
+  }
+  button {
+  padding: 6px 10px !important;
+    font-size: 14px !important;
+  }
+
+.header-bottom-left h1 {
+  font-size: 26px;
+  text-align: center;
+}
+.header-img {
+  width: 100%;
+}
+.service-left h2 {
+  font-size: 26px;
+  padding: 0 66px;
+}
+.header-bottom-left p {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.service-left p {
+  color: black;
+  margin-bottom: 22px;
+  padding: 0;
+}
+.video-play {
+  width: 25%;
+}
+.hidden-item {
+  transform: translate(-20px, 20px);
+  width: 70%;
+}
+.portfolio-caption h1 {
+  font-size: 40px;
+}
+.p-text {
+  color: #fff;
+  padding: 0 55px;
+}
+.portfolio-child p {
+  padding: 0 51px;
+  font-size: 16px !important;
+}
+.portfolio-child h2 {
+  margin-top: 32px;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+.right-content h2 {
+  margin-top: 49px;
+  font-size: 26px;
+  margin-bottom: 20px;
+  padding: 0 68px;
+}
+.right-content p {
+  margin-bottom: 20px;
+  padding: 0 14px;
+}
+.sell-rate h1 {
+  font-size: 20px;
+}
+.sell-text {
+  margin-left: 22px;
+  font-size: 20px;
+}
+.sell-rate .rate-header::before {
+  width: 50px;
+}
+#doctor-section .fw-bolder.text-black.doctor-caption {
+  font-size: 40px;
+}
+.single-doctor h3 {
+  font-size: 18px;
+}
+.single-doctor h5 {
+  font-size: 15px;
+}
+.single-count img {
+  width: 15%;
+}
+.single-count h2 {
+  font-size: 22px;
+}
+.post-info h3 {
+  font-size: 16px;
+  padding: 26px 0 0 0;
+}
+.post-subtitle {
+  font-size: 14px;
+  color: #00bec9;
+  display: block;
+}
+.body-text {
+  padding: 0 20px;
+  margin-bottom: 0;
+}
+.post-info a {
+  font-size: 14px;
+}
+.single-footer h3 {
+  margin-bottom: 12px;
+  font-size: 22px;
+}
+ul li span {
+  font-size: 15px;
+  line-height: 1.5;
+}
+.text-footer {
+  margin-bottom: 18px;
+  font-size: 16px !important;
+}
+.btn.btn-primary.mb-3 i {
+  font-size: 25px;
+}
+.input-form.form-control.me-2 {
+  margin: 0;
+  padding: 0px 0 0px 7px;
+}
+
+}
